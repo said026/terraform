@@ -31,7 +31,7 @@ described infrastructure. As the configuration changes, Terraform is able
 to determine what changed and create incremental execution plans which
 can be applied.
 
-The infrastructure Terraform can manage includes
+The infrastructure Terraform can manage
 low-level components such as
 compute instances, storage, and networking, as well as high-level
 components such as DNS entries, SaaS features, etc.
